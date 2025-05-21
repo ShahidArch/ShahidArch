@@ -1,9 +1,25 @@
-- 👋 Hi, I’m Moh@mmEd $hah!d
-- 🌱 I’m currently learning ...Flutter , Js ,Ts ,Android
-- 💻 I'm Currently working in Ecaret Solutions
-- 🎮 Hobies : Gaming , Coding , Desiging , Content Creation
+# 👋 Hi, I’m Moh@mmEd $hah!d
 
-<!---
-ShahidArch/ShahidArch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> *“In this world, is the source code truly free?” – Some Dev in CrunchyCode*
+
+---
+
+### 💻 About Me
+
+- 🔭 Currently working at **Ecaret Solutions**
+- 🌱 Learning the sacred tech arts: **Flutter**, **JavaScript**, **TypeScript**, and **Android**
+- 🎮 Hobbies include:  
+  `Gaming 🎮` · `Coding 💻` · `Designing 🎨` · `Content Creation 🎥`
+- 🧠 Always pushing code like it's the final episode of an anime season.
+
+---
+
+### 🧬 My Life in Code
+
+```ts
+const myLife = {
+  anime: true,
+  bugs: many,
+  pushes: daily,
+  dreams: "becoming_hokage",
+};
