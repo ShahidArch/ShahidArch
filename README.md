@@ -7,7 +7,7 @@
 ### 💻 About Me
 
 - 🔭 Currently working at **Ecaret Solutions**
-- 🌱 Learning the sacred tech arts: **Flutter**, **JavaScript**, **TypeScript**, and **Android**
+- 🌱 Learning the sacred tech arts: **ReactNative**, **TailWind**, **Zustand**, **Redux**, **JavaScript**, **TypeScript**, and **Android**
 - 🎮 Hobbies include:  
   `Gaming 🎮` · `Coding 💻` · `Designing 🎨` · `Content Creation 🎥`
 - 🧠 Always pushing code like it's the final episode of an anime season.
